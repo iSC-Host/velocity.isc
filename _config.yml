@@ -1,0 +1,13 @@
+# global settings
+title: "(iSC) Velocity"
+description: "A speed tester for website and more!"
+permalink: ""
+url: http://velocity.isc
+relative_permalinks: false
+analytics_account: "UA-XXXX"
+
+# build settings
+exclude: ["script", "vendor", "Gemfile", "Gemfile.lock", "Rakefile", "readme.md", "package.json"]
+markdown: kramdown
+gems:
+  - jekyll-sitemap
