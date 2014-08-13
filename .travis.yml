@@ -1,5 +1,5 @@
 language: ruby
-script: "./assets/script/cibuild"
+script: "./script/cibuild"
 notifications:
 email: false
 branches:
