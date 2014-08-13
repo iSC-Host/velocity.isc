@@ -1,0 +1,25 @@
+/* THIS IS THE HUMANS.TXT TO SIGN THIS WEBSITE! */
+
+/* TEAM */
+
+Author: Suriyaa Kudo
+Site: http://suriyaa.isc
+Twitter: @SuriyaaKudoIsc
+Location: Munich (MÜ) , Bavaria (BY), Germany (DE)
+
+----
+
+/* THANKS */
+
+* GitHub
+
+----
+
+/* SITE */
+
+Link: http://velocity.isc
+Create date: 2014/08/13
+Last update: 2014/08/13
+Standards: HTML5, CSS3
+Components: HTML5, CSS3, JavaScript, ...
+Software: GitHub
